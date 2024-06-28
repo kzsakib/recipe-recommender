@@ -2,7 +2,7 @@
 An AI project that that recommends recipe based on user's ingredient input. Built using Tensorflow
 
 ## UI
-![UI.png](https://ibb.co/qDtCgGq)
+![UI.png](https://github.com/kzsakib/recipe-recommender/assets/101088043/0db62ced-0c47-4267-9e74-c022512cf0d7)
 
 ## Team Members
 * Kazi Sakib
