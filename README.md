@@ -1,31 +1,29 @@
 # Recipe Recommender
-An AI project that that recommends recipe based on user's ingredient input. Built using Tensorflow
+An AI-driven project that recommends recipes based on user-input ingredients. Built using TensorFlow and Streamlit.
+
+# Overview
+This project uses deep learning techniques to suggest personalized recipes. By looking at the ingredients users enter, the system matches their taste with a wide range of recipes. Each recommended recipe comes from a neural network model trained on various aspects of recipes, like figuring out important details, outlining cooking steps, and listing ingredients. This makes sure users get recipes that fit their tastes and preferences perfectly.
 
 ## UI
-![UI.png](https://github.com/kzsakib/recipe-recommender/assets/101088043/50c5a542-210f-4cc6-b6c8-ea40d43b574c)
+* Main interface
+![MAIN](https://github.com/kzsakib/recipe-recommender/assets/101088043/984282ac-a2d0-4dfd-aa9d-68600812cf07)
+* Recipe recommended interface
+![RECOMMENDED](https://github.com/kzsakib/recipe-recommender/assets/101088043/72d75dfa-67a3-4d97-a739-1081b1c11c3e)
+
+
 
 ## Team Members
-* Kazi Sakib
-* Nayma Sultana
+* ![Kazi Sakib](https://github.com/kzsakib)
+* ![Nayma Sultana](https://github.com/naymaSultana)
 
 
 ## Features
-* Save game to database
-* Save game to file
-* Polish and English localizations
+* Recommends recipes based on user-provided ingredients.
+* Displays detailed recipe information including ingredients, steps, and a link to the original recipe.
+* Provides a user-friendly interface with recipe suggestions.
 
 
 ## Built With
-* [Apache Derby](https://db.apache.org/derby/) - Relational Database 
-* [JavaFX](https://openjfx.io/) - GUI Framework
-* [JUnit5](https://junit.org/junit5/) - Testing Framework
-* [Logback](http://logback.qos.ch/) - Logging Framework
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [SLF4J](http://www.slf4j.org/) - Logging API
-
-## Image sources
-[Background](https://www.micestro.com/work-imagery?lightbox=dataItem-jk9abbp7)
-
-## License
-[Apache License 2.0](https://github.com/JuliaSzymanska/Sudoku_Game/blob/master/LICENSE)
+* [TensorFlow](https://www.tensorflow.org/) - Deep learning framework
+* [Streamlit](https://streamlit.io/) - Web app framework for DL prototypes
 
