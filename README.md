@@ -13,8 +13,8 @@ This project uses deep learning techniques to suggest personalized recipes. By l
 
 
 ## Team Members
-* ![Kazi Sakib](https://github.com/kzsakib)
-* ![Nayma Sultana](https://github.com/naymaSultana)
+* [Kazi Sakib](https://github.com/kzsakib)
+* [Nayma Sultana](https://github.com/naymaSultana)
 
 
 ## Features
